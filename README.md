@@ -1,5 +1,5 @@
 # first-repo
-author divyanshu
+author divyanshu kumari
 <br>
 currently a first year student
 <br>
